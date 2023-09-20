@@ -1,16 +1,38 @@
-### Hi there 👋
+### 자기 소개서
 
-<!--
-**Engineeringcircuitanalysis/Engineeringcircuitanalysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Resume 2023.9
 
-Here are some ideas to get you started:
+### [황규민](https://thumbsu.dev/)
+<img src="./static/profile.jpeg" width="100px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+안녕하세요, 광운대학교 전기공학과 3학년 황규민 입니다.
+<br/>
+Python을 공부 중 입니다. 
+
+## 군대
+
+- 국방부 근무 지원단(2021년 6월 - 2022년 11월)
+  
+## 경력
+
+- 준비 중 입니다.
+
+## 학력
+
+- **광운대학교** — 전기공학 전공
+  (2019년 3월 - 2025년 3월)
+
+## 교육
+
+준비 중 입니다.
+
+
+
+
+
+
+
+
+
